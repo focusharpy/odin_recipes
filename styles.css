@@ -1,0 +1,20 @@
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1, h2 {
+    color: rgb(7, 117, 117);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul {
+    border-style: dotted;
+    border-color:rgb(7, 117, 117);
+    background-color: lightblue;
+}
+
+ol{
+    border-style: dotted;
+    border-color:rgb(7, 117, 117);
+    background-color: burlywood;
+}
