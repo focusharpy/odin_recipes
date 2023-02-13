@@ -2,9 +2,23 @@
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
+body {
+    background-color: navajowhite;
+}
+
 h1, h2 {
     color: rgb(7, 117, 117);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+}
+
+h1{
+    font-size: 60px;
+    color:rgb(7, 117, 117);
+}
+
+h2 {
+    text-decoration:underline;
 }
 
 ul {
@@ -14,7 +28,13 @@ ul {
 }
 
 ol{
-    border-style: dotted;
+    border-style: dashed;
     border-color:rgb(7, 117, 117);
-    background-color: burlywood;
+    background-color: rgb(176, 239, 231);
 }
+
+.main{
+    text-align:center;
+    font-weight:bold;
+}
+
